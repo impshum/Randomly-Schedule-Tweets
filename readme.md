@@ -31,7 +31,7 @@ optional arguments:
 
 Included is a simple PHP file to read the json database and create a simple gallery. Just point it to your json file and the images directory. Have fun!
 
-![bunny website preview](ss.png)
+![bunny website preview](ss.jpg)
 
 ##### TODO
 
