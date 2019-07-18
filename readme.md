@@ -19,7 +19,7 @@ optional arguments:
 ### Steps to add new tweets
 
 - Remove all demo images in images/ and insert your own
-- Edit input.txt with your tweet text and image name (careful with the extension)
+- Edit input.txt with your tweet text and image name separated by a pipe ```|``` (careful with the extensions also)
 - Run ```run.py -w``` to write the data to the database
 
 ### Steps to run
