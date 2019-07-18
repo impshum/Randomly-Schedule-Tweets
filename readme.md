@@ -29,7 +29,7 @@ optional arguments:
 
 ### Gallery Website
 
-Included is a simple PHP file to read the json database and create a simple gallery. Just point it to your json file and the images directory. Have fun!
+Included is a PHP script to read the json database and create a simple gallery. Just point it to your json file and the images directory. Have fun!
 
 ![bunny website preview](ss.jpg)
 
