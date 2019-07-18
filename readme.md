@@ -1,4 +1,4 @@
-## Randomly Schedule Tweet
+## Randomly Schedule Tweets
 
 ### Install
 
