@@ -1,0 +1,9 @@
+tweepy
+requests
+tinydb
+time
+schedule
+re
+sys
+configparser
+argparse
